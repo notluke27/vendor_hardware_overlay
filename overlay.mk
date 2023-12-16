@@ -244,6 +244,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-d1q-systemui \
 	treble-overlay-samsung-d1x \
 	treble-overlay-samsung-d1x-systemui \
+	treble-overlay-samsung-dm1q \
 	treble-overlay-samsung-gta2xl \
 	treble-overlay-samsung-gta3xl \
 	treble-overlay-samsung-gta7litewifi \
@@ -394,4 +395,5 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9s \
 	treble-overlay-xiaomi-redminote9t \
 	treble-overlay-xiaomi-redmis2 \
+
 
