@@ -1,5 +1,5 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<device xmlns:android="http://schemas.android.com/apk/res/android" name="Android">
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
 <item name="none">0 </item>
 <item name="ambient.on">20.84 </item>
 <item name="screen.on">73.9 </item>
